@@ -1,0 +1,4 @@
+{"level":"error","message":"Un error gestionado por winston","service":"user-service"}
+{"level":"error","message":"Un error gestionado por winston","service":"user-service"}
+{"level":"error","message":"Un error gestionado por winston","service":"user-service"}
+{"level":"error","message":"Error: holita (la variable debe ser de tipo entero)","service":"user-service"}
